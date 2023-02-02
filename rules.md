@@ -1,5 +1,5 @@
 ---
-title: Rules for irc.dot.org.es
+title: Policy & Rules for irc.dot.org.es
 ---
 
 

@@ -1,4 +1,4 @@
-name: CI
+name: Deploy Page
 
 on:
   push:
@@ -30,7 +30,7 @@ jobs:
       - name: Compile rules
         run: |
           mkdir www
-          pandoc -s -f markdown -t html rules.md -o www/index.html
+          pandoc -s -f markdown -t html --css="text-align:justify;text-align:center" rules.md -o www/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
