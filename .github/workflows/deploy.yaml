@@ -24,13 +24,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install pandoc
-        run: sudo apt install pandoc
+      - name: Create www
+        run: mkdir www
 
-      - name: Compile rules
-        run: |
-          mkdir www
-          pandoc -s -f markdown -t html --css="text-align:justify;text-align:center" rules.md -o www/index.html
+      - uses: docker://pandoc/core:latest
+        with:
+          args: >-
+            -s 
+            -f markdown 
+            -t html 
+            rules.md
+            -o www/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
