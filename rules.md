@@ -35,9 +35,9 @@ Definitions
 Art. 5. All along this document, the term "governance" refers to the
 leadership of this community. The governance is made up of:
 
-(1) The owner of the server
+(1) The owner of the server, with the title Executive Director
 
-(2) Trusted users designated by the owner to represent them
+(2) Trusted users designated by the owner to represent the server's interests
 
 Art. 6. The owner and therefore the Executive Director of this IRC
 server is mattf.
@@ -50,35 +50,34 @@ save:
 (1) Decisions regarding the continuation and termination of the
 activity of the server
 
-(2) Decisions regarding the rights of using the hardware the Executive
-Director chooses to run this IRC server on
+(2) Decisions regarding the rights of use of the hardware
+on which this IRC server operates
 
 (3) Drafting Art. 7
 
 Art. 8. Only the Executive Director can modify Art. 7. Said article
-shall be deemed modified by the sole expression of mattf's decision to
-do so, be it expressed in the chat itself, the motd, or the web page
-of this community.
+shall be deemed modified by the sole expression of the Executive Director's decision to
+do so, whether expressed in the chat itself, the motd, and/or the official website
+for this community.
 
 Art. 9. Every registered channel shall have its own operators
 and its own by-laws.
 
-Art. 10. As the owner of this server, mattf has authority over the
+Art. 10. As the owner of this server, the Executive Director has authority over the
 entire network, this is to say, over all channels registered here.
 
 Art. 11. An operator shall have authority over a given channel.
 
 Art. 12. By "user" it is understood a person who, using an electronic
 device, like a computer, a smartphone, an iPhone, a tablet or
-similar, and running an IRC client, accesses the address
-irc.dot.org.es.
+similar, and running an IRC client, accesses the IRC server address.
 
 Art. 13. The terms "rules", "by-laws" or "protocol" refer to this
 document.
 
 (1) The by-laws are created by the Executive Director, with the
 assistance and advice from their Plenipotentiary Deputy Director and
-trusted users in this community.
+trusted users of this community.
 
 (2) These by-laws shall be updated regularly.
 
@@ -339,9 +338,9 @@ On the collaboration of particular individuals with our community
 
 Art. 54. Users can collaborate with our server on a permanent basis.
 
-Art. 55. Users who consider they have something to offer the
-community are required to [contact us](mailto:gasconheart_irc_chat@gmx.com)
-and submit their proposals.
+Art. 55. Users with proposals for improving our community
+are requested to contact us at gasconheart_irc_chat@gmx.com
+to submit their ideas.
 
 Art. 56. Users can contribute their bots, games, or activities that
 can enrich our community.
@@ -352,17 +351,17 @@ notions of server management.
 
 TITLE II
 
-On the rapport of our community and other communities
+On the rapport of our community with other communities
 
 Art. 58. Being a user or a channel operator in our IRC server is not
 incompatible with being a user, a channel operator, or a network
-owner for that matter, at other IRC servers.
+owner at other IRC servers.
 
 Art. 59. While mentioning other IRC servers in our channels
 is not forbidden, their repeated mention by a user might be deemed as
 advertising or spam, and the user suspected of such a behavior will
-be warned, first, and then ejected should their annoying behavior
+be first warned and then ejected should their annoying behavior
 persist.
 
-Art. 60. The sole fact of mentioning a different IRC community at our
+Art. 60. The sole act of mentioning a different IRC community at our
 channels shall never be enough grounds for ejecting a user.
