@@ -339,9 +339,9 @@ On the collaboration of particular individuals with our community
 
 Art. 54. Users can collaborate with our server on a permanent basis.
 
-Art. 55. Users who consider they have something to offer the
-community are required to [contact us](mailto:gasconheart_irc_chat@gmx.com)
-and submit their proposals.
+Art. 55. Users with proposals for improving our community
+are requested to contact us at gasconheart_irc_chat@gmx.com
+to submit their ideas.
 
 Art. 56. Users can contribute their bots, games, or activities that
 can enrich our community.
@@ -352,17 +352,17 @@ notions of server management.
 
 TITLE II
 
-On the rapport of our community and other communities
+On the rapport of our community with other communities
 
 Art. 58. Being a user or a channel operator in our IRC server is not
 incompatible with being a user, a channel operator, or a network
-owner for that matter, at other IRC servers.
+owner at other IRC servers.
 
 Art. 59. While mentioning other IRC servers in our channels
 is not forbidden, their repeated mention by a user might be deemed as
 advertising or spam, and the user suspected of such a behavior will
-be warned, first, and then ejected should their annoying behavior
+be first warned and then ejected should their annoying behavior
 persist.
 
-Art. 60. The sole fact of mentioning a different IRC community at our
+Art. 60. The sole act of mentioning a different IRC community at our
 channels shall never be enough grounds for ejecting a user.
